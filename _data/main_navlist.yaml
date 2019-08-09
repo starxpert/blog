@@ -1,0 +1,64 @@
+toc:
+  - page: Apply
+    url: /apply-now
+    subpages:
+      - page: Apply Now
+        url: /apply-now
+      - page: App Process & Eligibility
+        url: /apply/app-process
+
+  - page: About
+    url: /about
+    subpages: 
+      - page: About PRIME
+        url: /about
+      - page: PRIME Curriculum
+        url: /about/curriculum
+      - page: Sponsors & Partners
+        url: /about/sponsors-partners
+      - page: PRIME people
+        url: /about/prime-people
+      - page: Resources
+        url: /about/resources
+      - page: Appendix
+        url: /about/appendix
+
+  - page: Research
+    url: /studies
+    subpages:
+      - page: Areas of Research
+        url: /research
+      - page: Awards & Software
+        url: /research/awards-software
+      - page: Publications
+        url: /research/Publications
+
+  - page: Alumni
+    url: /alumni
+    subpages:
+      - page: 2015
+        url: /alumni/2015
+      - page: 2014
+        url: /alumni/2014
+      - page: 2013
+        url: /alumni/2013
+      - page: 2012
+        url: /alumni/2012
+      - page: 2011
+        url: /alumni/2011
+      - page: 2010
+        url: /alumni/2010
+      - page: 2009
+        url: /alumni/2009
+
+  - page: What's Happening
+    url: /media
+    subpages:
+      - page: Events
+        url: /whats-happening/events
+      - page: PRIME News
+        url: /whats-happening/prime-news
+      - page: Video Gallery
+        url: /whats-happening/video-gallery
+      - page: Photo Gallery
+        url: /whats-happening/photo-gallery
