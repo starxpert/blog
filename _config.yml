@@ -1,1 +1,21 @@
+title: Starxpert
+description: >- # this means to ignore newlines
+  Blog technique de starxpert
+url: "https://starxpert.github.io"
+twitter_username: starxpert
+twitter:
+  username: starxpert
+github_username:  starxpert
+author: starxpert
 theme: jekyll-theme-leap-day
+logo: /assets/logo.jpg
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-avatar
+  - jekyll-sitemap
+  - jemoji
+
+
+
